@@ -8,9 +8,9 @@ ________________________________________________________________________________
 
 Getting Started with Build Process :
 		
-	1.Setting up Building Environment and Tools:	
-  
-     There are a list of packages and tools that are mandatory, listed below :
+1.Setting up Building Environment and Tools:	
+
+      There are a list of packages and tools that are mandatory, listed below :
      
       which
       sed
@@ -31,5 +31,5 @@ Getting Started with Build Process :
       rsync
       file (must be in /usr/bin/file)
       bc
-      
-      
+     
+2. Installing Cross Compiler 
