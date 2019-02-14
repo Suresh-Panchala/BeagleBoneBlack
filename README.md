@@ -12,13 +12,13 @@ Getting Started with Build Process :
 
       There are a list of packages and tools that are mandatory, listed below 
         sudo apt-get install which
-      sed
-      make (version 3.81 or any later)
-      binutils
-      build-essential (only for Debian based systems)
-      gcc (version 4.4 or any later)
-      g++ (version 4.4 or any later)
-      bash
+        sudo apt-get install sed
+        sudo apt-get install make (version 3.81 or any later)
+        sudo apt-get install binutils
+        sudo apt-get install build-essential (only for Debian based systems)
+        sudo apt-get install gcc (version 4.4 or any later)
+        sudo apt-get install g++ (versionsudo apt-get install  s  sudo apt-get install udo apt-get install 4.4 o  sudo apt-get install r any later)
+    sudo apt-get ins  sudo apt-get install tall   sudo apt-get insta  sudo apt-get install   sudo apt-get install ll     bash
       patch
       gzip
       bzip2
