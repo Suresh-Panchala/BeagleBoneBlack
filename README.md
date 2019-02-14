@@ -10,8 +10,10 @@ Getting Started with Build Process :
 		
 1. Setting up Building Environment and Tools:	
 
+
 		There are a list of packages and tools that are mandatory, listed below 
-        		sudo apt-get install which
+        		
+			sudo apt-get install which
 			sudo apt-get install sed
 			sudo apt-get install make (version 3.81 or any later)
 			sudo apt-get install binutils
