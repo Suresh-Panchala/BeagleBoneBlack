@@ -17,18 +17,16 @@ Getting Started with Build Process :
         sudo apt-get install binutils
         sudo apt-get install build-essential (only for Debian based systems)
         sudo apt-get install gcc (version 4.4 or any later)
-        sudo apt-get install g++ (versionsudo apt-get install  s  sudo apt-get install udo apt-get install 4.4 o  sudo apt-get install r any later)
-    sudo apt-get ins  sudo apt-get install tall   sudo apt-get insta  sudo apt-get install   sudo apt-get install ll     bash
-      patch
-      gzip
-      bzip2
-      perl (version 5.8.7 or any later)
-      tar
-      cpio
-      python (version 2.6 or any later)
-      unzip
-      rsync
-      file (must be in /usr/bin/file)
-      bc
+        sudo apt-get install g++ 
+        sudo apt-get install  patch
+        sudo apt-get install gzip
+        sudo apt-get install bzip2
+        sudo apt-get install perl (version 5.8.7 or any later)
+        sudo apt-get install tar
+        sudo apt-get install cpio
+        sudo apt-get install python (version 2.6 or any later)
+        sudo apt-get install unzip
+        sudo apt-get install rsync
+      
      
 2. Installing Cross Compiler 
