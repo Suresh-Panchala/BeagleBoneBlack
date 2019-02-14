@@ -36,6 +36,9 @@ Getting Started with Build Process :
 	Cross-Compiler is nothing but, a Compiler which runs in host machine ( Ex : Laptop ) 
 	and produce executables for the target machine 
 	(Ex : BeagleBone, RaspberryPi, Panda Board, etc.). 
-	Choosing and Installing Cross-Compiler is depends upon the Architecture we are going to build the executables.
+	Choosing and Installing Cross-Compiler is depends upon the Architecture of the target machine,
+	that we are going to build the executables.
 	
-        In, Our Scenario 
+        In this case, the target device BeagleBoneBlack's Architecture is ARM Cortex-A8 
+        ( For more info : https://en.wikipedia.org/wiki/BeagleBoard#BeagleBone_Black )
+        So, 
