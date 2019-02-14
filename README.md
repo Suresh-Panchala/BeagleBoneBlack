@@ -11,7 +11,7 @@ Getting Started with Build Process :
 1. Setting up Building Environment and Tools:	
 
 
-		There are a list of packages and tools that are mandatory, listed below 
+		List of packages and tools that are mandatory to install .. 
         		
 			sudo apt-get install which
 			sudo apt-get install sed
