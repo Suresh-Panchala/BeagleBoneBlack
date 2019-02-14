@@ -31,4 +31,7 @@ Getting Started with Build Process :
 			sudo apt-get install rsync
       
      
-2. Installing Cross Compiler 
+2. Installing Cross Compiler Toolchain:
+
+	Cross-Compiler is nothing but, a Compiler which runs in host machine ( Ex : Laptop ) and produce 
+	executables for the target machine (Ex : BeagleBone, RaspberryPi, Panda Board, etc.).
