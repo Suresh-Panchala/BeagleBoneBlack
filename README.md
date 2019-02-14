@@ -39,7 +39,7 @@ Getting Started with Build Process :
 	Choosing and Installing Cross-Compiler is depends upon the Architecture of the target machine,
 	that we are going to build the executables.
 	In this case, the target device BeagleBoneBlack's Architecture is ARM Cortex-A8 
-        ( For more info : https://en.wikipedia.org/wiki/BeagleBoard#BeagleBone_Black )
+        (  For more info : https://en.wikipedia.org/wiki/BeagleBoard#BeagleBone_Black )
         So, we have to install a Cross-Compiler for ARM Architeture.
 		
 	command to install ARM Cross-Compiler:
