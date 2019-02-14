@@ -33,5 +33,9 @@ Getting Started with Build Process :
      
 2. Installing Cross Compiler Toolchain:
 
-	Cross-Compiler is nothing but, a Compiler which runs in host machine ( Ex : Laptop ) and produce 
-	executables for the target machine (Ex : BeagleBone, RaspberryPi, Panda Board, etc.).
+	Cross-Compiler is nothing but, a Compiler which runs in host machine ( Ex : Laptop ) 
+	and produce executables for the target machine 
+	(Ex : BeagleBone, RaspberryPi, Panda Board, etc.). 
+	Choosing and Installing Cross-Compiler is depends upon the Architecture we are going to build the executables.
+	
+        In, Our Scenario 
