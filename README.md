@@ -62,12 +62,18 @@ Getting Started with Build Process :
 	
 		sudo make am335x_boneblack_defconfig
     
-    		sudo make ARCH=arm CROSS_COMPILE=arm-linux-gnueabi-
+    		s
+		udo make ARCH=arm CROSS_COMPILE=arm-linux-gnueabi-
 		
    this Command will take upto 15 mins to build the image binaries..
    
-   the output files that we needed to boot up the beagle are  ( MLO & u-boot.img )
+   the output files that we needed to boot up the beagle are  ( MLO & u-boot.img  https://www.denx.de/wiki/U-Boot/Documentation)
    
-   Download kernel: https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.20.10.tar.xz
+   
+   After Completion of u-boot
+   
+   Download Mainline Kernel:
+   
+    https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.20.10.tar.xz
 		
 
