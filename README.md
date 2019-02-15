@@ -45,5 +45,7 @@ Getting Started with Build Process :
 	command to install ARM Cross-Compiler:
 		
 		       sudo apt-get install gcc-arm-linux-gnueabi-
+		                         (or)
+	               sudo apt-get install gcc-arm-linux-gnueabihf-
 		
 		
