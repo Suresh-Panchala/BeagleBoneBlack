@@ -51,9 +51,10 @@ Getting Started with Build Process :
 3. Downloading Source Code
     
     Download u-boot: ftp://ftp.denx.de/pub/u-boot/u-boot-2019.01.tar.bz2
+   
     After Downloading the u-boot ...
     
-    sudo mkdir BeagleBoneBlack && cd BeagleBoneBlack
+    	sudo mkdir BeagleBoneBlack && cd BeagleBoneBlack
     
     Download kernel: https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.20.10.tar.xz
 		
