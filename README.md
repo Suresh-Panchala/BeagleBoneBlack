@@ -60,7 +60,7 @@ Getting Started with Build Process :
 	      
 	Extract downloded u-boot in BeagleBoneBlack directory....
 	        
-		$ sudo tar xvfp u-boot-2019.01.tar.bz2
+		 sudo tar xvfp u-boot-2019.01.tar.bz2
 		
 	You will get directory named  u-boot-2019.01
 	
