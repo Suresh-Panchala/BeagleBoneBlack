@@ -48,7 +48,7 @@ Getting Started with Build Process :
 		                        (or)
 	               sudo apt-get install gcc-arm-linux-gnueabihf-
 		   
-3. Downloading Source Code
+3. Downloading Source Code and Compiling
     
     Download u-boot:   
         
@@ -57,9 +57,17 @@ Getting Started with Build Process :
     After Downloading the u-boot ...
     
     	sudo mkdir BeagleBoneBlack && cd BeagleBoneBlack
+	      
+	Extract downloded u-boot in BeagleBoneBlack directory....
 	
 		sudo make am335x_boneblack_defconfig
     
-    Download kernel: https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.20.10.tar.xz
+    		sudo make ARCH=arm CROSS_COMPILE=arm-linux-gnueabi-
 		
+   this Command will take upto 15 mins to build the image binaries..
+   
+   the output files that we needed to boot up the beagle are  ( MLO & u-boot.img )
+   
+   Download kernel: https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.20.10.tar.xz
 		
+
