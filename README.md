@@ -65,9 +65,9 @@ Getting Started with Build Process :
     		s
 		udo make ARCH=arm CROSS_COMPILE=arm-linux-gnueabi-
 		
-   this Command will take upto 15 mins to build the image binaries..
+   this Command will take upto 15 mins to build the image binaries.( The elapsed time depends on your host machine performance )
    
-   the output files that we needed to boot up the beagle are  ( MLO & u-boot.img  https://www.denx.de/wiki/U-Boot/Documentation)
+   the output files that we needed to boot up the beagle are  ( MLO & u-boot.img    For more info :https://www.denx.de/wiki/U-Boot/Documentation)
    
    
    After Completion of u-boot
