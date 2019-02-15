@@ -59,18 +59,20 @@ Getting Started with Build Process :
     	sudo mkdir BeagleBoneBlack && cd BeagleBoneBlack
 	      
 	Extract downloded u-boot in BeagleBoneBlack directory....
+	        
+		sudo tar xvfp u-boot-2019.01.tar.bz2
+	You will get directory named  u-boot-2019.01
 	
 		sudo make am335x_boneblack_defconfig
     
-    		s
-		udo make ARCH=arm CROSS_COMPILE=arm-linux-gnueabi-
+    		sudo make ARCH=arm CROSS_COMPILE=arm-linux-gnueabi-
 		
    this Command will take upto 15 mins to build the image binaries.( The elapsed time depends on your host machine performance )
    
    the output files that we needed to boot up the beagle are  ( MLO & u-boot.img    For more info :https://www.denx.de/wiki/U-Boot/Documentation)
+   we can check these file in  u-boot directory.
    
-   
-   After Completion of u-boot
+   After Completion of Compiling u-boot
    
    Download Mainline Kernel:
    
