@@ -46,6 +46,8 @@ Getting Started with Build Process :
 		
 		       sudo apt-get install gcc-arm-linux-gnueabi-
 		                         (or)
-	               sudo apt-get install gcc-arm-linux-gnueabihf-
+	             sudo apt-get install gcc-arm-linux-gnueabihf-
+		   
+3. 
 		
 		
